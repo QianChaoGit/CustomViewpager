@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BannerView">
+        <attr name="bannerview_indicator_drawable_selected" format="integer|reference" />
+        <attr name="bannerview_indicator_drawable_unselected" format="integer|reference" />
+    </declare-styleable>
+</resources>
