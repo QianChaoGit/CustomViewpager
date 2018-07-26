@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomViewpager.iml" filepath="$PROJECT_DIR$/CustomViewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/banner_test.iml" filepath="$PROJECT_DIR$/banner_test.iml" />
     </modules>
   </component>
 </project>

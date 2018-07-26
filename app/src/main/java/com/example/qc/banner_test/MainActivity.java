@@ -11,6 +11,9 @@ import java.util.Arrays;
 import java.util.List;
 
 
+/**
+ * Created by qianchao on 2018/1/5.
+ */
 public class MainActivity extends AppCompatActivity {
     private int[] img = {R.drawable.guide_01, R.drawable.guide_02, R.drawable.guide_03};
 
